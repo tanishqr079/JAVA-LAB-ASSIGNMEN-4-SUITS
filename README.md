@@ -24,3 +24,22 @@ This Java project implements a **Card Deck Management System** that allows users
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+
+
+## COMPILE JAVA FILE 
+
+javac Main.java 
+
+
+## run the code 
+java Main 
+
+
+## Usage
+Once the program runs, follow the on-screen menu to interact with the deck. Enter the corresponding number to execute a command.
+
+## Requirements
+Java Development Kit (JDK) 8 or higher
+Any Java-compatible terminal or IDE (e.g., VS Code, IntelliJ IDEA, Eclipse)
+
+
